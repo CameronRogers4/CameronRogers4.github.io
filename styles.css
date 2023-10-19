@@ -1,0 +1,36 @@
+
+body {
+    background: sandybrown; 
+    font-family: 'Arial', sans-serif; 
+    color: #333; 
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    color: black; 
+    text-align: center;
+    font-size: 36px; 
+}
+
+
+.assign {
+    padding: 20px; 
+    margin: 10px;
+    background: #f1f1f1;
+    border-radius: 5px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    text-align: center;
+    transition: background 0.3s ease; 
+}
+
+.assign:hover {
+    background: #e0e0e0; 
+}
+
+
+.assign img {
+    width: 30%; 
+    border-radius: 5px; 
+}
